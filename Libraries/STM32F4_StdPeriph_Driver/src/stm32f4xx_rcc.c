@@ -11,7 +11,9 @@
   *           + Peripheral clocks configuration
   *           + Interrupts and flags management
   *
- @verbatim                
+ @verbatim    
+
+ //            
  ===============================================================================
                       ##### RCC specific features #####
  ===============================================================================
